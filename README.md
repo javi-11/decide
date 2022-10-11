@@ -3,7 +3,8 @@
 
 [![Python application](https://github.com/javi-11/decide/actions/workflows/django.yml/badge.svg)](https://github.com/javi-11/decide/actions/workflows/django.yml)
 
-UN CAMBIO
+Nueva versión para la plataforma
+
 Plataforma voto electrónico educativa
 =====================================
 
